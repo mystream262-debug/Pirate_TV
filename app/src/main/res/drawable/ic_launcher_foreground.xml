@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- TV Screen Outer Frame -->
+    <path
+        android:fillColor="#3E4756"
+        android:pathData="M24,32 h60 a6,6 0 0,1 6,6 v40 a6,6 0 0,1 -6,6 h-60 a6,6 0 0,1 -6,-6 v-40 a6,6 0 0,1 6,-6 z" />
+    <!-- TV Screen Inner Display -->
+    <path
+        android:fillColor="#14181F"
+        android:pathData="M28,36 h52 a3,3 0 0,1 3,3 v32 a3,3 0 0,1 -3,3 h-52 a3,3 0 0,1 -3,-3 v-32 a3,3 0 0,1 3,-3 z" />
+    <!-- TV Antennas -->
+    <path
+        android:strokeColor="#CFA65C"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M38,20 L50,32 M70,20 L58,32" />
+    <!-- TV Stand -->
+    <path
+        android:fillColor="#CFA65C"
+        android:pathData="M46,84 h16 v3 h-16 z M42,87 h24 v2 h-24 z" />
+    <!-- Gold Play Symbol inside TV -->
+    <path
+        android:fillColor="#CFA65C"
+        android:pathData="M48,44 L64,52 L48,60 Z" />
+    <!-- Gold Crown/Pirate accent on TV -->
+    <path
+        android:fillColor="#F1D9A7"
+        android:pathData="M49,38 L54,42 L59,38 L57,44 L51,44 Z" />
+</vector>
